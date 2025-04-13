@@ -1,1 +1,2 @@
-# E-commerce-Dashboard
+# Interactive E-Commerce Dashboard – End-to-End Excel Project
+Developed a dynamic Excel dashboard to analyze and visualize sales performance across three product segments: Technology, Furniture, and Office Supplies. Conducted thorough data cleaning and transformation of raw sales data, followed by the creation of Pivot Tables and interactive Pivot Charts. Incorporated Timelines and Slicers to enable intuitive filtering and real-time insights. The dashboard highlights sales and profit contributions by each product category, supporting strategic decision-making in an e-commerce context.
